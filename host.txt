@@ -1,4 +1,4 @@
 # Ad filter list by khalol86
 
 
-smh.com.au
+127.0.0.1 smh.com.au
