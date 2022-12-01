@@ -1,4 +1,4 @@
 # Ad filter list by khalol86
 
 
-0.0.0.0 sb.scorecardresearch.com/
+0.0.0.0 sb.scorecardresearch.com
