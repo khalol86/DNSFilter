@@ -6,6 +6,7 @@
 0.0.0.0 serving-sys.com
 
 # Samsung TV
+0.0.0.0 scs.samsungqbe.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 samsungacr.com
 0.0.0.0 samsungcloudsolution.com
